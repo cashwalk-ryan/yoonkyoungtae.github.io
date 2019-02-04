@@ -3,6 +3,7 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo');
 
 @font-face {
     font-family: 'Godo';
@@ -413,7 +414,7 @@ footer .theme-by {
 
 /* --- Post --- */
 .blog-post p {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Nanum Myeongjo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 /* --- Tags --- */
