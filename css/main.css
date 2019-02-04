@@ -25,7 +25,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Open Sans', 'Times New Roman', serif;
+  font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -375,7 +375,12 @@ footer .theme-by {
   font-style: italic;
   margin: 0 0 10px;
 }
-.post-preview .post-entry {
+
+.post-entry {
+    font-family: 'Godo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.post-preview {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
