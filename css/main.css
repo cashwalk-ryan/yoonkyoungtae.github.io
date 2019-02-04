@@ -4,6 +4,24 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+@font-face {
+    font-family: 'Godo';
+    font-style: normal;
+    font-weight: 400;
+    src: url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoM.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoM.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Godo';
+    font-style: normal;
+    font-weight: 700;
+    src: url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoB.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoB.woff') format('woff');
+}
+
+.godo * {
+    font-family: 'Godo', sans-serif;
+}
+
 /* --- General --- */
 
 body {
@@ -56,11 +74,6 @@ hr.small {
     padding-right: env(safe-area-inset-right);
     padding-top: 130px;
   }
-}
-
-@font-face {
-	  font-family: "GodoM";
-		  src: url( '../_assets/fonts/GodoM.ttf') format( 'truetype');
 }
 
 .main-explain-area {
@@ -297,7 +310,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Godo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
