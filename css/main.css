@@ -36,6 +36,7 @@ body {
   {% endif %}
 }
 p {
+  font-family: 'Godo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.5;
   margin: 30px 0;
 }
@@ -375,12 +376,7 @@ footer .theme-by {
   font-style: italic;
   margin: 0 0 10px;
 }
-
-.post-entry {
-    font-family: 'Godo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-.post-preview {
+.post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
