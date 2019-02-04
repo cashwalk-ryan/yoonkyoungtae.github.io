@@ -22,14 +22,10 @@ layout: null
     font-family: 'Godo', sans-serif;
 }
 
-@import url(//fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
-.nanummyeongjo * { font-family: 'Nanum Myeongjo', serif; }
-
 /* --- General --- */
 
 body {
-    /* font-family: 'Lora', 'Times New Roman', serif; */
-    font-family: 'Nanum Myeongjo', 'Times New Roman', serif;
+  font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -44,7 +40,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Godo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
