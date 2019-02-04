@@ -22,10 +22,14 @@ layout: null
     font-family: 'Godo', sans-serif;
 }
 
+@import url(//fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+.nanummyeongjo * { font-family: 'Nanum Myeongjo', serif; }
+
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+    /* font-family: 'Lora', 'Times New Roman', serif; */
+    font-family: 'Nanum Myeongjo', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
