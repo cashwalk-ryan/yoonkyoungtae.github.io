@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Kotlin] for문의 until
+title: Kotlin - for문의 until
 tags: [kotlin, for문, until]
 ---
 
