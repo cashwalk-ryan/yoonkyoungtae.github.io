@@ -16,7 +16,9 @@ tags: [HTTPS, SSL, DNS]
 나중에도 참고 할 수 있을것 같아서 첨부해두었다.
 
 **무료로 내 블로그에 SSL[HTTPS] 적용하기**
-https://suitee.me/2019/02/14/how-to-setup-free-ssl-2/
+
+<https://suitee.me/2019/02/14/how-to-setup-free-ssl-2/>
 
 **HTTPS 적용 후 구글 Search Console 필수 설정**
-https://blog.gaerae.com/2018/01/https-google-search-console.html
+
+<https://blog.gaerae.com/2018/01/https-google-search-console.html>
