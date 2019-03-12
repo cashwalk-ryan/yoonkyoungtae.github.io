@@ -2,6 +2,11 @@
 layout: post
 title: Kotlin - for문의 until
 tags: [kotlin, for문, until]
+date: 2019-02-23 12:00:00
+lastmod : 2019-02-23 12:00:00
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 # Kotlin 토이 프로젝트!

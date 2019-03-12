@@ -2,6 +2,11 @@
 layout: post
 title: 도메인이 생겼다.
 tags: [HTTPS, SSL, DNS]
+date: 2019-03-08 12:00:00
+lastmod : 2019-03-08 12:00:00
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 # 도메인이 생겼다.

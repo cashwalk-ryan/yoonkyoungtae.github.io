@@ -2,6 +2,11 @@
 layout: post
 title: Contribute Graph
 tags: [Github, Contribute Graph]
+date: 2019-02-16 12:00:00
+lastmod : 2019-02-16 12:00:00
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 # Contribute Graph 색상이 상대적인것 같다.
