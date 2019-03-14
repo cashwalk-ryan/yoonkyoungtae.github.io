@@ -2,7 +2,6 @@
 layout: post
 title: 첫번째 포스트
 date: 2019-02-04 12:00:00 
-lastmod : 2019-02-04 12:00:00
 sitemap :
   changefreq : daily
   priority : 1.0
