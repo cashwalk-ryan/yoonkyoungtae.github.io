@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 도메인이 생겼다.
-tags: [HTTPS, SSL, DNS]
+tags: [기타]
 date: 2019-03-08 12:00:00
 sitemap :
   changefreq : daily

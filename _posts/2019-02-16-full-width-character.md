@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AndroidStudio에서 영어 타이핑이 이상해졌다!
-tags: [전각문자, 반각문자]
+tags: [Android]
 date: 2019-02-16 12:00:00
 sitemap :
   changefreq : daily

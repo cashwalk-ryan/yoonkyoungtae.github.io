@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kotlin - for문의 until
-tags: [kotlin, for문, until]
+tags: [Kotlin]
 date: 2019-02-23 12:00:00
 sitemap :
   changefreq : daily

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contribute Graph
-tags: [Github, Contribute Graph]
+tags: [Git]
 date: 2019-02-16 12:00:00
 sitemap :
   changefreq : daily
