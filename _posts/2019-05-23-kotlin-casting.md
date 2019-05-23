@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Kotlin] 타입확인과 캐스팅 (is)
+title: Kotlin - 타입확인과 캐스팅 (is)
 tags: [Kotlin]
 date: 2019-05-22 12:00:00
 sitemap :
