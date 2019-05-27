@@ -32,3 +32,7 @@ Kotlin에서도 똑같이 제너릭 선언을 통해 타입을 지정할 수 있
     intArrayOf()
     longArrayOf()
     ...
+
+
+
+---
