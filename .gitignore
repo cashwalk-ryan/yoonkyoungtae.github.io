@@ -1,11 +1,9 @@
-.DS_Store
-
-# Compiled site
+# project
 _site
-
-# Sass garbage
 .sass-cache
+.vagrant
 
-# Bundler
-.bundle/
-vendor/
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
